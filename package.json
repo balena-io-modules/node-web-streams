@@ -1,6 +1,6 @@
 {
   "name": "@balena/node-web-streams",
-  "version": "0.2.3",
+  "version": "1.0.0",
   "description": "WhatWG web streams and conversion utilities for node.js",
   "main": "index.js",
   "scripts": {
@@ -32,5 +32,8 @@
   },
   "devDependencies": {
     "assert": "^2.0.0"
+  },
+  "versionist": {
+    "publishedAt": "2021-08-26T06:44:10.190Z"
   }
 }
