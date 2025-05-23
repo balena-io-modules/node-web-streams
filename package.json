@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "is-stream": "^1.1.0",
-    "web-streams-polyfill": "^3.1.0"
+    "web-streams-polyfill": "^4.1.0"
   },
   "versionist": {
     "publishedAt": "2021-09-02T13:01:39.622Z"
